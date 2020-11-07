@@ -1,0 +1,26 @@
+{
+	"clusters": [
+		{
+			      "vk": {
+        "token": "39f872002e58db1bda2ae4ccc39c8273d52dc686bf8a531f0c13183180dbc9fb61e38a78ba55dd921141b",
+        "group_id": "wisoru",
+        "keywords": [news@wisory],
+        "filter": true,
+        "longpoll": false,
+        "interval": 30
+      },
+      "discord": {
+        "webhook_urls": [
+          "https://discord.com/api/webhooks/774337029688786946/Qh7gNuvEDGwVRM5TXCIvoRWdA9pktIi3zH1meyQ0LWNYu1VyCzuC4LoAL_MMg_gtyyE-"
+        ],
+        "username": "",
+        "avatar_url": "",
+        "content": "",
+        "color": "#ff7b00",
+        "author": false,
+        "copyright": false
+      }
+    }
+  ],
+	"version_dont_modify_me": 3
+}
